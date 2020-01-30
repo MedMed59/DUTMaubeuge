@@ -1,4 +1,4 @@
-# Découverte de Git
+# Découverte de Git -- Modification Par Med
 
 Ce TP a pour objectif de vous faire découvrir la gestion de versions et ses outils (ici *Git*).
 
